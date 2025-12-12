@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(122, 0, 0);
+}
+
+#more {
+ display: none;
+}
+
+.text {
+    width: 400px;
+    background: linear-gradient(to right, #3f7e04, #648880, #293f50);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.textPosition {
+    position: relative;
+    left: 200px;
+    top: 110px;
+}
+
+#myBtn {
+    top: 125px;
+}
